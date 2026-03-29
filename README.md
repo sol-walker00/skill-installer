@@ -21,7 +21,7 @@ Download `skill-installer.skill` from [Releases](../../releases) and upload it i
 Copy the `skill-installer/` folder to `~/.claude/skills/`:
 
 ```bash
-git clone https://github.com/zhuoma250/skill-installer.git /tmp/si
+git clone https://github.com/sol-walker00/skill-installer.git /tmp/si
 cp -r /tmp/si/skill-installer ~/.claude/skills/
 rm -rf /tmp/si
 ```
